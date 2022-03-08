@@ -1,4 +1,4 @@
-# <center>**SCALING**</center>
+# **SCALING**
 
 [Scalability](https://en.wikipedia.org/wiki/Scalability) is the property of a system to handle a growing amount of work by adding resources to the system. It is a property of computers, networks, algorithms, networking protocols, programs, and applications in the field of computing.
 
