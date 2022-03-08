@@ -3,14 +3,15 @@
 [Scalability](https://en.wikipedia.org/wiki/Scalability) is the property of a system to handle a growing amount of work by adding resources to the system. It is a property of computers, networks, algorithms, networking protocols, programs, and applications in the field of computing.
 
 ## TABLE OF CONTENTS
-
-- INTRODUCTION
-- PROBLEM STATEMENT
-- SOLUTION
-  - VERTICAL SCALING
-  - HORIZONTAL SCALING
-  - LOAD BALANCERS
-  - CONCLUSION
+<!--ts-->
+   * [INTRODUCTION](#introduction)
+   * [PROBLEM STATEMENT](#problem-statement)
+   * [SOLUTION](#solution)
+      * [Vertical Scaling](#vertical-scaling)
+      * [Horizontal Scaling](#horizontal-scaling)
+      * [LOAD BALANCERS](#load-balancers)
+   * [CONCLUSION](#conclusion)
+<!--te-->
 
 ## **INTRODUCTION**
 
@@ -88,3 +89,12 @@ Load balancing software distributes processing load across available servers dyn
 ## **CONCLUSION**
 
 The choices to scale horizontally or vertically is dependent on the data requirement.   From CPU resources to database and storage resources, every aspect of your project must expand. Any component of the scalability challenge that is overlooked might result in unintended downtime or even worse. The best approach could be a combination of vertical scaling to estimate individual instance's optimal performance and then horizontal scaling to manage demand spikes while retaining uptime.
+
+## **AUTHORS**
+
+<a href="https://github.com/KAVYA-S-MBLUE">KAVYA S</a>
+
+## **REFERENCES**
+- https://en.wikipedia.org/wiki/Scalability
+- https://en.wikipedia.org/wiki/Load_balancing_(computing)
+- https://cloudcheckr.com/cloud-automation/horizontal-vertical-cloud-scaling/
